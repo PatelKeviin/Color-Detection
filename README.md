@@ -14,3 +14,6 @@ Colors are made up of 3 primary colors; red, green, and blue. In computers, we d
 ### Running program outputs
 When a user double clicks a point on the image, the program detects the color at that location and displays on the image.
 
+![image](https://github.com/PatelKeviin/Color-Detection/blob/master/img/image1.PNG)
+
+![image](https://github.com/PatelKeviin/Color-Detection/blob/master/img/image2.PNG)
