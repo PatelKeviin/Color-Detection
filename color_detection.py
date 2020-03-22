@@ -38,7 +38,7 @@ def main():
 
     # Reading csv file with pandas and giving names to each column
     index = ["color", "color_name", "hex_value", "R", "G", "B"]
-    colors = pd.read_csv('colors.csv', names=index, header=None)
+    colors = pd.read_csv('data/colors.csv', names=index, header=None)
 
     while True:
         # reading image with opencv
